@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 10.x Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/javax.ejb-api-3.2.1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/javax.faces-api-2.1.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/hibernate-c3p0-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="//vmware-host/Shared Folders/Downloads/log4j-api-2.0-beta4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/PhenyoT/.eclipse/mysql-connector-java-8.0.17/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
